@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="weatherstation-jpms" />
+        <module name="weather-station" />
+        <module name="weather-model" />
+        <module name="weather-client" />
+        <module name="temperature-sensor" />
       </profile>
     </annotationProcessing>
   </component>
